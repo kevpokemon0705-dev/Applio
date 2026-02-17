@@ -10,7 +10,7 @@
     "selected_lang": "en_US"
   },
   "version": "3.6.1",
-  "model_author": "None",
+  "model_author": "kevin",
   "precision": "fp16",
   "realtime": {
     "input_device": "",
