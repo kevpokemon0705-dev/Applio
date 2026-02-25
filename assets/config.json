@@ -1,13 +1,13 @@
 {
   "theme": {
-    "file": "Applio.py",
-    "class": "Applio"
+    "file": null,
+    "class": "remilia/Ghostly"
   },
   "plugins": [],
   "discord_presence": true,
   "lang": {
-    "override": false,
-    "selected_lang": "en_US"
+    "override": true,
+    "selected_lang": "fr_FR"
   },
   "version": "3.6.1",
   "model_author": "kevin",
@@ -21,5 +21,6 @@
     "client_input_device": "",
     "client_output_device": "",
     "client_monitor_device": ""
-  }
+  },
+  "model_index_filter": false
 }
