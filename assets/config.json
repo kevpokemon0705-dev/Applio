@@ -3,7 +3,13 @@
     "file": null,
     "class": "remilia/Ghostly"
   },
-  "plugins": [],
+  "plugins": [
+    "Applio-Plugins-main.zip",
+    "Elevenlabs-TTS",
+    "Example-Plugin",
+    "README.md",
+    "UVR"
+  ],
   "discord_presence": true,
   "lang": {
     "override": true,
