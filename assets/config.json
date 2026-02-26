@@ -4,8 +4,6 @@
     "class": "remilia/Ghostly"
   },
   "plugins": [
-    "Applio-Plugins-main",
-    "Applio-Plugins-main.zip",
     "Elevenlabs-TTS",
     "Example-Plugin",
     "README.md",
