@@ -14,8 +14,13 @@
     "override": true,
     "selected_lang": "fr_FR"
   },
+<<<<<<< HEAD
   "version": "3.6.1",
   "model_author": "kevin",
+=======
+  "version": "3.6.2",
+  "model_author": "None",
+>>>>>>> c7be7282af0f7b6382cbb2ac780b11242da12916
   "precision": "fp16",
   "realtime": {
     "input_device": "",
